@@ -9,3 +9,7 @@ dance
 videos
 images
 
+
+payment option 
+send mony 
+recievemoney
