@@ -2,3 +2,10 @@ This is chat application
 emojie
 typing
 colour
+
+
+
+dance 
+videos
+images
+
